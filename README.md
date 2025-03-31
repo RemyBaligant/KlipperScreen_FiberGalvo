@@ -2,6 +2,33 @@
 
 NOT FOR 3D PRINTERS USE - Under construction
 
+- Follow normal Klipper installation with KIAUH
+    https://github.com/dw-0/kiauh
+
+Install, Klipper, Moonraker, Fluidd, KlipperScreen
+
+- For Android Smartphone user as a screen, follow this procedure for Xserver-XSDL installation
+   https://klipperscreen.readthedocs.io/en/latest/Android/
+
+- Once you have default install, extract CONFIG_FILES.zip on your computer
+
+In zip file, each sub folder contains files to be overwritted on your pi
+
+You can use program like WINSCP for people not famliliar with command line
+
+home_pi_KlipperScreen_config , copy move_menu.conf in /home/pi/KlipperScreen/config/
+home_pi_KlipperScreen_panels , copy main_menu.py in /home/pi/KlipperScreen/panels/
+home_pi_printer_data_config, copy files in /home/pi/printer_data/config/
+
+
+- Printer.cfg
+The printer.cfg in zip file is an example. It use FLYF407ZG board but you can edit the file to use another board. This files contains menu macros for FocusGalvo.
+You have to enter your on focus distance and defocus memory for each lens used. 
+Follow "#" in file for more information
+
+-Klipperscreen.conf
+This file contain menu layout, Follow "#" in file for more information
+
 ---------------------------------------------
 
 KlipperScreen is a touchscreen GUI that interfaces with [Klipper](https://github.com/Klipper3d/klipper) via [Moonraker](https://github.com/arksine/moonraker). It allows you to switch between multiple printers and access them from a single location. Notably, it doesn't need to run on the same host as your printer; you can install it on another device and configure the IP address to connect to the printer.
