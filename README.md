@@ -12,6 +12,8 @@ Install Klipper, Moonraker, Fluidd, KlipperScreen
 
 - Once you have default install, extract CONFIG_FILES.zip on your computer
 
+  https://github.com/RemyBaligant/KlipperScreen_FiberGalvo/blob/master/CONFIG_FILES.zip
+
 In zip file, each sub folder contains files to be overwritted on your pi
 
 You can use program like WINSCP for people not famliliar with command line
