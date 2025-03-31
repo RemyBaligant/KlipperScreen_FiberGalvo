@@ -17,7 +17,9 @@ In zip file, each sub folder contains files to be overwritted on your pi
 You can use program like WINSCP for people not famliliar with command line
 
 home_pi_KlipperScreen_config , copy move_menu.conf in /home/pi/KlipperScreen/config/
+
 home_pi_KlipperScreen_panels , copy main_menu.py in /home/pi/KlipperScreen/panels/
+
 home_pi_printer_data_config, copy files in /home/pi/printer_data/config/
 
 
