@@ -7,7 +7,7 @@ NOT FOR 3D PRINTERS USE - Under construction
 
 Install Klipper, Moonraker, Fluidd, KlipperScreen
 
-- For Android Smartphone user as a screen, follow this procedure for Xserver-XSDL installation
+- For Android Smartphone use as a screen, follow this procedure for Xserver-XSDL installation
    https://klipperscreen.readthedocs.io/en/latest/Android/
 
 - Once you have default install, extract CONFIG_FILES.zip on your computer
