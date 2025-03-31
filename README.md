@@ -5,7 +5,7 @@ NOT FOR 3D PRINTERS USE - Under construction
 - Follow normal Klipper installation with KIAUH
     https://github.com/dw-0/kiauh
 
-Install, Klipper, Moonraker, Fluidd, KlipperScreen
+Install Klipper, Moonraker, Fluidd, KlipperScreen
 
 - For Android Smartphone user as a screen, follow this procedure for Xserver-XSDL installation
    https://klipperscreen.readthedocs.io/en/latest/Android/
