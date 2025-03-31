@@ -29,7 +29,7 @@ The printer.cfg in zip file is an example. It use FLYF407ZG board but you can ed
 You have to enter your on focus distance and defocus memory for each lens used. 
 Follow "#" in file for more information
 
--Klipperscreen.conf
+- Klipperscreen.conf
 
 This file contain menu layout, Follow "#" in file for more information
 
