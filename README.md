@@ -26,7 +26,7 @@ home_pi_printer_data_config, copy files in /home/pi/printer_data/config/
 - Printer.cfg
 
 The printer.cfg in zip file is an example. It use FLYF407ZG board but you can edit the file to use another board. This files contains menu macros for FocusGalvo.
-You have to enter your on focus distance and defocus memory for each lens used. 
+You have to enter your own focus distance and defocus memory for each lens used. 
 Follow "#" in file for more information
 
 - Klipperscreen.conf
